@@ -1,0 +1,4 @@
+#Ingore the locsl .env file
+#
+.env
+
